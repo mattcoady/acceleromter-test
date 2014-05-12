@@ -1,0 +1,4 @@
+acceleromter-test
+=================
+
+Accelerometer test
